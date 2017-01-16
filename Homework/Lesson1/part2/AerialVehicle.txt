@@ -1,0 +1,3 @@
+AerialVehicle
+Attributes: model, height, lenght, width, fuel type, maxilal speed, maximal altitude, number of pilots needed, maximal number of passengers, autopilot availability
+Methods: fill the fuel, check the sensors, check the radio, start the engines, release the brakes, take off, fly to point B, land, turn off the engines, conduct the maintenance

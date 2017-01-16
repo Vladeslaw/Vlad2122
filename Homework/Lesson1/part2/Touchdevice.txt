@@ -1,0 +1,3 @@
+Touchdevice
+Attributes: device vendor, model, weight(g), height(mm), width(mm), lenght(mm), color, screen diagonale (inches), memory(mb), processor cores, processor frequency, does it have a camera, does it have memory card
+Methods: turn on, turn off, set brightness, set volume, set a clock, play a video, play a music, connect to wifi, write some text, record a voice,

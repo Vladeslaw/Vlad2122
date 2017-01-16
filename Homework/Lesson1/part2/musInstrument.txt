@@ -1,0 +1,3 @@
+Musinstrument
+Attributes: instrument material, vendor, weight(kg), height(m), width(m), lenght(m), maximal volume level(db), number of keys, number of pipes, number of strings, is it portable
+Methods: hold, place hands on, put between knees, sit by, clean an istrument, play all notes, play the 7 symphony, disassemble, assemble, put in holster

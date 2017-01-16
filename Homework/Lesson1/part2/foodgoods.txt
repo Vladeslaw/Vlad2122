@@ -1,0 +1,3 @@
+Foodgoods
+Attributes: product name, product price, weight (kg), volume (liters), expire date day, expire date month, expire date year, number of pieces, does it have a discount, is it an eco product, is it fat-fre.
+Methods: unpack, store in closet, store in a fridge, store in a basement, spill into a boling dish, put in a microwoen, put on a fry pan, conservate, throw out into trash, return to shop with complaint

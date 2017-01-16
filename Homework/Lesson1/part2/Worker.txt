@@ -1,0 +1,3 @@
+Worker
+Attributes: first name, second name, worker gender, age(years), expirience on the current job(years), combined exp from previous jobs(years), number of subordinates, vocation per year(days), sallary per month(dollars), does work on saturdays, does have bad gabits
+Methods: go to work, go home, take a break, go to assigment, report to boss, take a night shift, attend a meeting, assign a meeting, get a payment, sent an email, receive an email

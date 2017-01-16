@@ -1,0 +1,3 @@
+VideoFile
+Attributes: title, language, lenght (min), frames per second, size (gb), format, resolution horizontal(px), resolution vertical(px), bit rate (mil bits), sound quality (Ghz), is it in black and white, subtitles available
+Methods: launch, close, play, pause, stop, rewind, increase speed, decrease spead, change volume, mute

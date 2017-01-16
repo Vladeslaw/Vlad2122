@@ -1,0 +1,3 @@
+Cosmicobject
+Attributes: ID, prevailing element, diameter(km), square(sq km), mass(mil kg), speed(km per hour), distance(km), approx age (mil yrs), number of satelites, visible from observing point
+Methods: track, follow, analyze, probe, collect, harvest, change trajectory, impact, store, froze down, heat up
