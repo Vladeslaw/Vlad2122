@@ -1,0 +1,4 @@
+Planetoid
+Attributes: rotation period (days), have athmosphere, have water 
+Methods: land onto, start a terraforming process
+

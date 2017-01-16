@@ -1,0 +1,3 @@
+Bakery
+Attributes: bakery type, form, already sliced
+Methods: make a slice, add butter

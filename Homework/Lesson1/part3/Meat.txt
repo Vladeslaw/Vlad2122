@@ -1,0 +1,3 @@
+Meat
+Attributes: what animal, half baked, have bones
+Methods: add spices, marinade

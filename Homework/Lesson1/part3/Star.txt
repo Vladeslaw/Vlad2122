@@ -1,0 +1,3 @@
+Star
+Attributes: star type, surface temperature, magnetic field diameter
+Methods: observe in infrared spectre, cound dark spots

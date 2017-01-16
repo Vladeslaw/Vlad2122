@@ -1,0 +1,3 @@
+Tabla
+Attributes: circle color, smaller drum diameter, bigger drum diameter 
+Methods: hit with one hand, hit with both hands at the same time

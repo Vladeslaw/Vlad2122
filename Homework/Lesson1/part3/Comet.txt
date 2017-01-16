@@ -1,0 +1,4 @@
+Comet
+Attributes: tail lenght, orbital period (years), ice thikness
+Methods: predict approaching, count time until collapse
+

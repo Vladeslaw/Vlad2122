@@ -1,0 +1,3 @@
+AirShip
+Attributes: material, baloon volume, anchor lenght
+Methods: ascend to maximal altitude, release the anchor

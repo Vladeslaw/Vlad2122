@@ -1,0 +1,3 @@
+Jet
+Attributes: number of turbines, number of chassis, wing lenght
+Methods: turn up the fraps, turn down the fraps, do a barrel roll

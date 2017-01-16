@@ -1,0 +1,3 @@
+Anime
+Attributes: anime type, theme, protagonist gender
+Methods: take a screenshot, count characters

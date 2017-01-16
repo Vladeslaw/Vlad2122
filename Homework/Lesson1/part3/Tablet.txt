@@ -1,0 +1,3 @@
+Tablet
+Attributes: number of mini usb ports, have back support, include stilus
+Methods: connect DVI cable, connect to blueatooth

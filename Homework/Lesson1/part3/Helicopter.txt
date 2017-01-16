@@ -1,0 +1,3 @@
+Helicopter
+Attributes: purpose, number of blades, landing basis
+Methods: spin 360 degrees, do a noose

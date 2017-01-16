@@ -1,0 +1,3 @@
+Smartphone
+Attributes: gsm frequency, number of sim cards, 4g support
+Methods: making a call, sim card inertion

@@ -1,0 +1,3 @@
+PublicTerminal
+Attributes: number of services, receives banknots, receives coins 
+Methods: transfer money to an account, check the balance on a account

@@ -1,0 +1,3 @@
+Dairy
+Attributes: packing type, physical state, percentage of fat
+Methods: check a smell, fill into a cup

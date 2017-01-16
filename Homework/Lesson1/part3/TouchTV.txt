@@ -1,0 +1,3 @@
+TouchTV
+Attributes: number of mechanical buttons, mountable, smart tv support
+Methods: switch to a channel, connect antena

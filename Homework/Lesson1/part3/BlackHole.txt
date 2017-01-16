@@ -1,0 +1,3 @@
+BlackHole
+Attributes: origin, event horizon diameter, radiation emit level 
+Methods: observe in ultraviolet spectre, approach to evenr horizon

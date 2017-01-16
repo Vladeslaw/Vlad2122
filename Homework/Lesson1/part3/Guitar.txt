@@ -1,0 +1,3 @@
+Guitar
+Attributes: type(classic or electronic), strings material, comes with a belt 
+Methods: untight the strings, tight the strings

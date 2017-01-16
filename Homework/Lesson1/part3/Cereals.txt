@@ -1,0 +1,3 @@
+Cereals
+Attributes: flavour, number of vitamins, in pack
+Methods: boil, add milk,

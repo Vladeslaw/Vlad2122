@@ -1,0 +1,3 @@
+Violin
+Attributes: upper bout lenght, lower bout lenght, chinrest material
+Methods: put on shoulder, touch a strings with a bow

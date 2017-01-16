@@ -1,0 +1,3 @@
+SecurityGuard
+Attributes: rank, army training, armed with gun
+Methods: guard a location, patrool a location

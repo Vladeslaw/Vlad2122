@@ -1,0 +1,3 @@
+Cartoon
+Attributes: based on, number of characters, pg rating
+Methods: show to a kids, write down a retelling

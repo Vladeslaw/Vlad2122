@@ -1,0 +1,3 @@
+LiveAction
+Attributes: setting, time period, major language
+Methods: watch with friend, watch alone

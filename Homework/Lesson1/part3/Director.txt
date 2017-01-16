@@ -1,0 +1,3 @@
+Director
+Attributes: office number, nunber of awards, credo
+Methods: summon a worker, make a job assigment

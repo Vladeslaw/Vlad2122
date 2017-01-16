@@ -1,0 +1,3 @@
+Janitor
+Attributes: number of keys in hold, physical shape, can take a night shift, 
+Methods: mob the floor, clean the window

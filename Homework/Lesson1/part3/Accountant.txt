@@ -1,0 +1,3 @@
+Accountant
+Attributes: university degree, PC usage skill, healthy vision
+Methods: count the worker salary, measure assigment expances

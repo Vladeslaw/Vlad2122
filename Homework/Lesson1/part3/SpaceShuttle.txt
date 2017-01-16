@@ -1,0 +1,3 @@
+SpaceShuttle
+Attributes: country of ownership, year of release, available oxygen volume
+Methods: reach the mesosphere level, engage radiation protection
